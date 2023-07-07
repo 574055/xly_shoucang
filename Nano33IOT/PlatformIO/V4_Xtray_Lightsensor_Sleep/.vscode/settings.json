@@ -1,8 +1,0 @@
-{
-    "C_Cpp.errorSquiggles": "Disabled",
-    "files.associations": {
-        "typeinfo": "cpp",
-        "limits": "cpp",
-        "*.tcc": "cpp"
-    }
-}
