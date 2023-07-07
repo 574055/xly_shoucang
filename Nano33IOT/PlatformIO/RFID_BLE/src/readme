@@ -1,0 +1,4 @@
+更改MTU：在libdeps-ArduinoBLE-src-utility-ATT.cpp中更改第87行括号中的数字即可。
+  _maxMtu(27),  
+
+  

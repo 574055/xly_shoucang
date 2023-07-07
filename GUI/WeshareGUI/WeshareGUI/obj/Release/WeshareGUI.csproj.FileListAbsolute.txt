@@ -1,0 +1,10 @@
+C:\Projects\UST_RFID\Weshare_Arduino\GUI\WeshareGUI\WeshareGUI\bin\Release\WeshareGUI.exe.config
+C:\Projects\UST_RFID\Weshare_Arduino\GUI\WeshareGUI\WeshareGUI\bin\Release\WeshareGUI.exe
+C:\Projects\UST_RFID\Weshare_Arduino\GUI\WeshareGUI\WeshareGUI\bin\Release\WeshareGUI.pdb
+C:\Projects\UST_RFID\Weshare_Arduino\GUI\WeshareGUI\WeshareGUI\obj\Release\WeshareGUI.Form1.resources
+C:\Projects\UST_RFID\Weshare_Arduino\GUI\WeshareGUI\WeshareGUI\obj\Release\WeshareGUI.Properties.Resources.resources
+C:\Projects\UST_RFID\Weshare_Arduino\GUI\WeshareGUI\WeshareGUI\obj\Release\WeshareGUI.csproj.GenerateResource.cache
+C:\Projects\UST_RFID\Weshare_Arduino\GUI\WeshareGUI\WeshareGUI\obj\Release\WeshareGUI.csproj.CoreCompileInputs.cache
+C:\Projects\UST_RFID\Weshare_Arduino\GUI\WeshareGUI\WeshareGUI\obj\Release\WeshareGUI.exe
+C:\Projects\UST_RFID\Weshare_Arduino\GUI\WeshareGUI\WeshareGUI\obj\Release\WeshareGUI.pdb
+C:\Projects\UST_RFID\Weshare_Arduino\GUI\WeshareGUI\WeshareGUI\obj\Release\WeshareGUI.csproj.AssemblyReference.cache
